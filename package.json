@@ -1,0 +1,35 @@
+{
+  "name": "robofriends-typescript",
+  "version": "1.0.0",
+  "description": "Remaking the RoboFriends app using typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts-ts": "2.14.0",
+    "tachyons": "^4.9.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^22.2.2",
+    "@types/node": "^9.6.1",
+    "@types/react": "^16.1.0",
+    "@types/react-dom": "^16.0.4",
+    "typescript": "^2.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ochanissi/RoboFriends-TypeScript.git"
+  },
+  "author": "Mirel Bitoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ochanissi/RoboFriends-TypeScript/issues"
+  },
+  "homepage": "https://github.com/Ochanissi/RoboFriends-TypeScript#readme"
+}
