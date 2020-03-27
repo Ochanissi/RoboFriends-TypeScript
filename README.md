@@ -1,7 +1,7 @@
 # RoboFriends
 
 **RoboFriends** is a small React application that fetches and displays a list of robot cards from a local database.
-It's the same [**TypeScript**](https://github.com/Ochanissi/RoboFriends) app, but now in TypeScript.
+It's the same [**RoboFriends**](https://github.com/Ochanissi/RoboFriends) app, but now in TypeScript.
 
 ## Getting Started
 
